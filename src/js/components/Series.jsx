@@ -28,3 +28,16 @@ const Series = ()=>{
 }
 
 export default Series
+
+
+// PSEUDOCODIGO
+// DONE: crear un array de tareas
+// DONE: agregar una nueva tarea
+// eliminar una tarea
+// DONE: contar las tareas que hay 
+// DONE: mostrar un array de tareas
+// parte grafica
+// DONE: obetenr el valor de input, 
+// DONE:identificar cuando doy enter
+// cuando hago hover sobre una tarea mostrar el botron de eliminar
+
