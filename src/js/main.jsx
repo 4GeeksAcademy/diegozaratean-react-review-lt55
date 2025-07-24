@@ -16,11 +16,13 @@ import Series from './components/Series';
 import Tareas from './components/Tareas';
 import Inputkey from './components/Inputkey';
 import Inputsub from './components/Inputsub';
+import Counter from './components/Counter';
+import Getdata from './components/Getdata';
 
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Tareas  />
+    <Getdata  />
   </React.StrictMode>,
 )
