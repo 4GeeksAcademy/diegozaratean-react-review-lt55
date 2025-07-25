@@ -18,11 +18,12 @@ import Inputkey from './components/Inputkey';
 import Inputsub from './components/Inputsub';
 import Counter from './components/Counter';
 import Getdata from './components/Getdata';
+import Test from './components/Test';
 
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Getdata  />
+    <Test  />
   </React.StrictMode>,
 )
