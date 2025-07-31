@@ -19,11 +19,12 @@ import Inputsub from './components/Inputsub';
 import Counter from './components/Counter';
 import Getdata from './components/Getdata';
 import Test from './components/Test';
+import Reducer from './components/Reducer';
 
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Test  />
+    <Reducer  />
   </React.StrictMode>,
 )
